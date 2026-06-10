@@ -7,7 +7,7 @@ VMware上のサーバーをWebサーバー兼DBサーバーとして運用出来
 ## 2. システム構成図
 
 * **WebDB Server:** Ubuntu in VMware, Apache2, MySQL,Tailscale
-* **Local PC:Windows11,Tailscale
+* **Local PC:**Windows11,Tailscale
 
 ## 3. 実装した機能
 - **VPN接続:** ホスト,クライアント側にTailscaleをインストールしWebconsoleよりユーザー追加し、Jsonエディターを直接編集し接続確認。
