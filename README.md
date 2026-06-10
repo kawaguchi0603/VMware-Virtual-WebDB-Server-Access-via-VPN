@@ -21,7 +21,8 @@ VMware上のサーバーをWebサーバー兼DBサーバーとして運用出来
 <img width="453" height="121" alt="スクリーンショット 2026-06-02 093636" src="https://github.com/user-attachments/assets/7f8843c4-4995-4f99-b344-192a3aa7e774" />
 
 ## 6. 動作確認エビデンス
-<img width="1267" height="790" alt="image" src="https://github.com/user-attachments/assets/4a0d3c81-5092-490d-a9c7-23df9a64af4b" />
+<img width="1492" height="585" alt="image" src="https://github.com/user-attachments/assets/0f2b7e2b-560d-4cb5-9902-7265506fe283" />
+<img width="1476" height="407" alt="image" src="https://github.com/user-attachments/assets/b7df9639-077d-405d-ad8c-8158b29aadfc" />
 
 ## 使用技術
 - VM: VMware
