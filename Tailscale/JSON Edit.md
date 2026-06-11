@@ -1,4 +1,5 @@
-###
+### JSON Editの内容
+
 // Example/default ACLs for unrestricted connections.
 {
 	"tagOwners": {
