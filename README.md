@@ -10,7 +10,7 @@ VMware上のサーバーをWebサーバー兼DBサーバーとして運用出来
 * **Local PC:** Windows11,Tailscale
 
 ## 3. 実装した機能
-- **VPN接続:** ホスト,クライアント側にTailscaleをインストールしWebconsoleより端末追加。Jsonエディターを直接編集し接続確認。
+- **VPN接続:** ホスト,クライアント側にTailscaleをインストールしWebconsoleより端末追加。JSONエディターを直接編集し接続確認。
 - **Webページテスト:** LAMP環境を構成し、SQLとPHPの疎通、及び設定反映テストを行い正常動作確認。
 - **WebDBサーバー実装:** SQLへテーブルを作成し架空ファイルを格納。PHPからDBを参照し文字入力検索機能の実装確認。
 
